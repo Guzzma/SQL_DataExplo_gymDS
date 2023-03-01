@@ -1,4 +1,6 @@
 
+--Portfolio Project : SQL Data Exploration : Dataset used is megagymdataset downloaded from internet.
+
 select * from megaGymDataset
 
 --unnecessary Column Slno
